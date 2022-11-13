@@ -1,7 +1,7 @@
 import Header from "./utility/Header"
-import { useState } from "react";
+import { useState } from 'react'
 
-function service() {
+function Service() {
 
     const [darkMode, setDarkMode] = useState(false);
 
@@ -22,4 +22,4 @@ function service() {
     )
 }
 
-export default service
+export default Service
