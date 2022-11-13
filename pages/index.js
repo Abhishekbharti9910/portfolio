@@ -68,7 +68,7 @@ export default function Home() {
           </div> 
 
           <div className='relative bg-gradient-to-b from-teal-500 rounded-full w-80 h-80 mt-10 mx-auto overflow-hidden md:h-96 md:w-96'>
-            <Image src={deved} />
+            <Image src={deved} alt={"3d blender image"}/>
           </div>
         </section>
 
@@ -77,7 +77,7 @@ export default function Home() {
           <div>
             <h3 className='text-3xl py-1'>Services I offer</h3>
             <p className='text-md py-2 leading-8 text-gray-800'>
-            Lorem Ipsum is simply <span className='text-teal-500'>dummy</span> text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+            Lorem Ipsum is simply <span className='text-teal-500'>dummy</span> text of the printing and typesetting industry. Lorem Ipsum has been the industry`&apos;` standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
             </p>
           </div>
 
@@ -125,7 +125,7 @@ export default function Home() {
               Freelancer providing services like website, design and support, And looking for front-end Devloper role.
             </p>
             <p className='text-md py-2 leading-8 text-gray-800'>
-            Lorem Ipsum is simply <span className='text-teal-500'>dummy</span> text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+            Lorem Ipsum is simply <span className='text-teal-500'>dummy</span> text of the printing and typesetting industry. Lorem Ipsum has been the industry`&apos;` standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
             </p>
           </div>
 
